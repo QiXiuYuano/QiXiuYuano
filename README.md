@@ -1,4 +1,20 @@
-### Hi there 👋
+## 路漫漫其修远兮！ 👨🏻‍💻
+[![Mail Badge](https://img.shields.io/badge/-wenchangkeh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wenchangkeh@gmail.com)](mailto:wenchangkeh@gmail.com)
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
+### About me
+
+- 一名在不断学习研究僧...
+-
+
+
+
+### 关于我
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+
+⭐️ From [QiXiuYuana](https://github.com/QiXiuYuana)
 
 <!--
 **QiXiuYuana/QiXiuYuana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![QiXiuYuana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
